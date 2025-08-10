@@ -7,7 +7,7 @@
 ## 👋 Hey, I’m Vergel  
 
 💻 BSIT student with a growing passion for **Web Development**.  
-🚀 On a quest to learn **JavaScript** & **ReactJS** — frameworks, I’m coming for you next.  
+🚀 On a quest to learn **JavaScript** & **ReactJS** — frameworks.  
 🛠 I love building small projects, breaking things, and learning from the chaos.  
 🌱 Currently exploring ways to write cleaner, faster, and more creative code.  
 🤝 Open to beginner-friendly collaborations.  
