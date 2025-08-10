@@ -3,7 +3,6 @@
 </div>
 
 ---
-<br clear="both">
 
 <h2 align="left">👋 Hey, I’m Vergel</h2>
 
