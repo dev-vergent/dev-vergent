@@ -1,13 +1,9 @@
-<h2 align="center">👋 Welcome! No bugs here… maybe.</h2>
 
-
-
-
-<div align="center">
+<div align="left">
   <img src="coding.gif" alt="Hacker Cat" height="200" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="left" style="margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
@@ -18,8 +14,7 @@
   <img width="12" />
 </div>
 
----
-<h2 align="left">👋 Hey, I’m Vergel</h2>
+<h1 align="left">👋Hey, I’m Vergel</h1>
 
 ###
 <h4 align="left">•💻 BSIT student with a growing passion for Web Development.<br>•🚀 On a quest to learn JavaScript & ReactJS — frameworks.<br>•🛠 I love building small projects, breaking things, and learning from the chaos.<br>•🌱 Currently exploring ways to write cleaner, faster, and more creative code.<br>🤝 Open to beginner-friendly collaborations.</h4>
