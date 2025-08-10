@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img src="coding.gif" alt="Hacker Cat" height="200" />
 </div>
 
