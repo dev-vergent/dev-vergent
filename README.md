@@ -1,37 +1,35 @@
 <div align="center">
-  <img height="200" src="assets/hacker-cat.gif" alt="Hacker Cat" />
+  <img src="assets/hacker-cat.gif" alt="Hacker Cat" height="200" />
 </div>
 
-###
+---
 
-<h2 align="left">👋 Hello World, I’m Vergel</h2>
+## 👋 Hey, I’m Vergel  
 
-###
+💻 BSIT student with a growing passion for **Web Development**.  
+🚀 On a quest to learn **JavaScript** & **ReactJS** — frameworks, I’m coming for you next.  
+🛠 I love building small projects, breaking things, and learning from the chaos.  
+🌱 Currently exploring ways to write cleaner, faster, and more creative code.  
+🤝 Open to beginner-friendly collaborations.  
 
-<p align="left">
-🚀 Currently on a quest to master JavaScript & ReactJS (frameworks, you’re next 👀).<br>
-🛠 Building small projects, breaking things, and learning along the way.<br>
-🤝 Open to beginner-friendly collaborations and cool coding experiments.<br>
-📬 Let’s connect:<br>
-&nbsp;&nbsp;✉️ Email: vergelsantiago0509@gmail.com<br>
-&nbsp;&nbsp;💬 Discord: vewnioh
-</p>
+📬 **Let’s Connect:**  
+- ✉️ **Email:** vergelsantiago0509@gmail.com  
+- 💬 **Discord:** vewnioh  
 
-###
+---
 
+### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-vergent&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-vergent&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-vergent&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-vergent&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-###
+---
 
+### 🛠 Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 </div>
