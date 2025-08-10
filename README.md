@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="assets/hacker-cat.gif" alt="Hacker Cat" height="200" />
-</div>
-
----
-
 ## 👋 Hey, I’m Vergel  
 
 💻 BSIT student with a growing passion for **Web Development**.  
