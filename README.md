@@ -23,9 +23,6 @@
 
 ###
 <h4 align="left">•💻 BSIT student with a growing passion for Web Development.<br>•🚀 On a quest to learn JavaScript & ReactJS — frameworks.<br>•🛠 I love building small projects, breaking things, and learning from the chaos.<br>•🌱 Currently exploring ways to write cleaner, faster, and more creative code.<br>🤝 Open to beginner-friendly collaborations.</h4>
-
----
-
 <h6 align="left">📬 Let’s Connect:<br> •✉️ Email: vergelsantiago0509@gmail.com<br>   •💬 Discord: vewnioh</h6>
 
 ---
